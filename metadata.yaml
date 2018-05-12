@@ -1,0 +1,32 @@
+_repo: Improvisos-de-Bocage--13-Na-Sua-Mui-Perigosa-Enfermidade-Dedicados-a-Seus-Bons-Amigos_23109
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bocage, Manuel Maria Barbosa du
+    birthdate: 1765
+    deathdate: 1805
+    gutenberg_agent_id: '8542'
+    url: http://www.gutenberg.org/2009/agents/8542
+    wikipedia: http://pt.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23109'
+language: pt
+language_note: This ebook uses a 19th century spelling
+production_note: Produced by Tiago Tejo
+publication_note: "Lisboa:\r\nImpressão Regia\r\n1805"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese poetry'
+- !lcc 'PQ'
+title: "Improvisos de Bocage\r\nNa Sua Mui Perigosa Enfermidade Dedicados a Seus Bons\
+  \ Amigos"
+url: http://www.gutenberg.org/ebooks/23109
